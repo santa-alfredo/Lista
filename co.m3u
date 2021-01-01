@@ -1,0 +1,51 @@
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="CO.m3u"
+#EXTINF:-1 tvg-id="113074" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="113071" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110973" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80330" tvg-name="Cali TV" tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg", Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80334" tvg-name="Canal Capital" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQIAAADECAMAAABDV99/AAABgFBMVEX///8fGjD2cBXwP0XwQUPxSDzvOEvxSjr1aB3yTjbwQ0HxRj7yUDTuMFPxSznyTTf1Zh/uLlX1axrvNk3zVS/vO0j0Xib0YyLzWSvzVi7uMlH0YSP0XSgAAA8AABntK1jl5OYAAACCgIgOBCX1YgAAABX2aQAAAB8AAAwYEiv09PX+8PAVDilWVGDv7/AAACC/vsKZmJ7wXX3zVADyRwDZ2Nv95uDzTRvvLSv7x72npqtMSVbb2t35tajyTCb0WwD3ik34kVkrJzrsAEiLiZHuFzg4NUXvMTb93s/2i3D83NTwNxr2ekL4srD0hILvISv0eG35o3f71tvxOhPzfIz1ekrvRF/0iZj3iFz95+v3o6L6y8j1lp3zbWtxb3m0s7hnZW/xVVjzaF72moz0clnzZUj5rpr3mZD2knr1az", Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106775" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108663" tvg-name="Canal CNC Pasto" tvg-logo="https://lh3.googleusercontent.com/-dZ9PqSZd2cE/XzggrDstNRI/AAAAAAAA4Xo/FKEv_wL8Mf0VRrsdGcuuCCBhF4yRhoohgCK8BGAsYHg/s0/2020-08-15.png", Canal CNC Pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108664" tvg-name="Canal Doce Sincelejo" tvg-logo="https://lh3.googleusercontent.com/-ERdsJLzILbw/Xzgg1nFfrII/AAAAAAAA4Xs/7-F-ChjTvCII5R33mD4ef3Tb75BkfZUOwCK8BGAsYHg/s0/2020-08-15.png", Canal Doce Sincelejo
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106774" tvg-name="Canal Visión Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108676" tvg-name="CMB Televisión" tvg-logo="https://lh3.googleusercontent.com/-eSdT3GYB0lk/XzghwIJXu6I/AAAAAAAA4YI/CVGYswP_mIAbWqyPXHqNvwyI7kRy-k6zgCK8BGAsYHg/s0/2020-08-15.png", CMB Televisión
+https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80342" tvg-name="Mundo +" tvg-logo="https://lh3.googleusercontent.com/-E_i3NMhXprE/XzgiJBP-YeI/AAAAAAAA4YY/htokywgIrT8erB8ThIjJED5hRTUpqwGBwCK8BGAsYHg/s0/2020-08-15.png", Mundo +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80350" tvg-name="Suram" tvg-logo="https://lh3.googleusercontent.com/-DFeNkokY8O8/XzgiZdthyaI/AAAAAAAA4Yk/JbPZgyPnBLYpa_EX8trKTgjEfE1KiDeLACK8BGAsYHg/s0/2020-08-15.jpg", Suram
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80352" tvg-name="Telecaribe" tvg-logo="https://lh3.googleusercontent.com/-1YIOT_XV4Po/XzgiqwxOEOI/AAAAAAAA4Yw/rqrGxTHGRH4vBf-_fWnq3s6HfTvJK9WjQCK8BGAsYHg/s0/2020-08-15.png", Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80351" tvg-name="Telecaribe Deportes" tvg-logo="https://lh3.googleusercontent.com/-bnrOj4B4f5E/XzgivjU8UdI/AAAAAAAA4Y0/Nq7rYd9bimA55CW3KaET8v-HljOIOVbCQCK8BGAsYHg/s0/2020-08-15.jpg", Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108669" tvg-name="Teleenvigado" tvg-logo="https://lh3.googleusercontent.com/-sMAbC2_69PA/Xzgi1U77X5I/AAAAAAAA4Y4/_npZ5yzfoLc2uWKKy0Hu9crf5XFzIUZcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleenvigado
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80354" tvg-name="Telepacífico" tvg-logo="https://lh3.googleusercontent.com/-IUpSSVnzrws/Xzgi51GivnI/AAAAAAAA4Y8/nHmUFN6uZ7oB-uQxgHaASZT9quRePknMwCK8BGAsYHg/s0/2020-08-15.png", Telepacífico
+https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108670" tvg-name="Telemedellin" tvg-logo="https://lh3.googleusercontent.com/-xYHvF-EUdHs/Xzgi-y9fR2I/AAAAAAAA4ZA/LrZrBNpDTCEW-iOr-6xhytBNMYF65WfVwCK8BGAsYHg/s0/2020-08-15.png", Telemedellin
+http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80355" tvg-name="Tele Islas" tvg-logo="https://lh3.googleusercontent.com/-VR6xjEiXlFU/XzgjE6jhhjI/AAAAAAAA4ZE/LSdiCyEDuyU6Byuk4WcnCWHX7zkG7wdxACK8BGAsYHg/s0/2020-08-15.jpg", Tele Islas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108671" tvg-name="UAO Play" tvg-logo="https://lh3.googleusercontent.com/-tLgCyvI0mh0/XzgjQo6Q8xI/AAAAAAAA4ZM/Su9yAKHJ1dcKi55je1HpyPWfT1JrrX5ZgCK8BGAsYHg/s0/2020-08-15.jpg", UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80340" tvg-name="Melody Channel TV" tvg-logo="https://lh3.googleusercontent.com/-fi14kFHlmlI/XzgjcIL28eI/AAAAAAAA4ZU/8aEsOJObOc8w9ghnCmLa2N_4bcmcVTLbwCK8BGAsYHg/s0/2020-08-15.jpg", Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106787" tvg-name="La Super TV" tvg-logo="https://lh3.googleusercontent.com/-X3M81FAZmXE/Xzgjo53WnMI/AAAAAAAA4Zc/2LUkap9e1AM_hTXR1AfAmH3Iydy6tPTawCK8BGAsYHg/s0/2020-08-15.jpg", La Super TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106789" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-omQS0__XP3Y/XpaPAIUgKUI/AAAAAAAAx44/0NeiqUb_LHk4-Sffm0h1XASJZA9B3DRLwCK8BGAsYHg/s0/2020-04-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
