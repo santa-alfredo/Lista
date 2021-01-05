@@ -51,14 +51,12 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+#EXTINF:-1,ONDA TV
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 #EXTINF:-1,LATINOS:Campus HD
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:-1,CANAL 10 CHETUMAL
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1,Medios Rioja La Rioja HD
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
 #EXTINF:-1,MUSICA:CHAU Tv www.achoAPPS.com
